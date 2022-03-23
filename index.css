@@ -199,10 +199,14 @@ a {
 /*Hide the Account links*/
 
 #accLink {
-  padding: 10px;
-  margin: 10px;
-  display: none;
+  padding: 14px;
+  margin: 12px;
+  width: 138%;
+  height: 94px;
+  margin-top: 4px;
   background-color: beige;
+  font-size: 23px;
+  display: none;
 }
 .Atext {
   letter-spacing: 1px;
