@@ -1,6 +1,5 @@
 
 # E-Com Kohl's.com Website Clone
-## https://vigorous-carson-ae67ee.netlify.app/
 
 
 This is the clone of Kohls.com,This Is Ecommerce Webisite We are Develope this Website in  UNIT II construct week.We Done This Website with Functionalities which is in Javascript 
